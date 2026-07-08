@@ -98,6 +98,7 @@ Each subagent's `sandbox_mode` field controls filesystem access:
 - **Workspace-write agents** (developers, engineers): `sandbox_mode = "workspace-write"` - create and modify files
 
 
+
 ## Sponsors
 
 |                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                           |
